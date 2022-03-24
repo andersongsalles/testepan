@@ -1,7 +1,7 @@
 {"metadata":{"stage":"dev","type":"object","step":null,"info":null},
 "results":
 	{"qtdElementosDaPagina":5,"paginaAtual":0,"totalPaginas":2,
-	"consolidadoVendas":
+	"vendas":
 		[
 		{"dataTransacao":"2021-06-21","somatoriaValorBruto":32.00,"quantidadeVendas":2},
 		{"dataTransacao":"2021-06-20","somatoriaValorBruto":16.00,"quantidadeVendas":1},

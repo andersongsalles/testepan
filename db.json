@@ -1,13 +1,9 @@
 {"metadata":{"stage":"dev","type":"object","step":null,"info":null},
 "results":
 	{"qtdElementosDaPagina":5,"paginaAtual":0,"totalPaginas":2,
-	"vendas":
-		[
-		{"dataTransacao":"2021-06-21","somatoriaValorBruto":32.00,"quantidadeVendas":2},
-		{"dataTransacao":"2021-06-20","somatoriaValorBruto":16.00,"quantidadeVendas":1},
-		{"dataTransacao":"2021-06-19","somatoriaValorBruto":16.00,"quantidadeVendas":1},
-		{"dataTransacao":"2021-06-18","somatoriaValorBruto":32.00,"quantidadeVendas":2},
-		{"dataTransacao":"2021-06-17","somatoriaValorBruto":16.00,"quantidadeVendas":1}
+	"consolidadoVendas":
+		[{"inicioSemana":"2021-06-20","fimSemana":"2021-06-21","mes":6,"ano":2021,"somatoriaValorBruto":48.00,"quantidadeVendas":3},
+		 {"inicioSemana":"2021-06-15","fimSemana":"2021-06-19","mes":6,"ano":2021,"somatoriaValorBruto":672.00,"quantidadeVendas":42}
 		]
 	}
-} 
+}
